@@ -11,4 +11,4 @@
 
 <p><b>Your explanation: </b> Cereal is not a soup. Even though it does have solids in a liquid, soups have hot liquid.</p>
 
-<a href="https://dahoas.github.io/belief-acquisition/trial.md">Click here to proceed</a>
+<a href="trial">Click here to proceed</a>
